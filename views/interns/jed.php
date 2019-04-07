@@ -11,11 +11,11 @@
                <div class="col-md-12 col-sm-6 col-xs-12">
                   <div class="col-md-6 col-xs-12">
                      <div class="intern-block border-blue">
-                        <img src="https://medium.com/@jedtony/bug-on-timbu-f3d2cfa37522" alt="Jed">
+                        <img src="https://res.cloudinary.com/jedtony/image/upload/v1554620880/jade_1_-resized.png" alt="Jed">
                         <h6>Jed Anthony</h6>
                         <p>Web Developer</p>
                         <ul class="list">
-                           <li><a href="https://twitter.com/jeddtony" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
+                           <li><a href="https://twitter.com/@jeddtony" target="_blank"<i class="fab fa-twitter fa-2x"></i></a></li>
                            <li><a href="https://github.com/jeddtony" target="_blank"<i class="fab fa-github fa-2x"></i></a></li>
                            <li><a href="https://medium.com/@jedtony" target="_blank"<i class="fab fa-medium fa-2x"></i></a></li>
                         </ul>
